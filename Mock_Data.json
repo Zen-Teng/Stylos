@@ -1,0 +1,14 @@
+[
+    {
+        "source": "cover_letter.pdf",
+        "text": "I am thrilled to apply for the Software Engineer role. My experience at Tech Corp taught me how to handle high-pressure deadlines while maintaining code quality."
+    },
+    {
+        "source": "email_rejection.txt",
+        "text": "Thank you for the offer, but I must decline. I have decided to pursue a different path that aligns closer with my long-term goals in NLP research."
+    },
+    {
+        "source": "personal_blog.md",
+        "text": "The hardest part of coding isn't the syntax; it's the logic. Yesterday, I spent 4 hours debugging a loop only to realize I was iterating over the wrong array."
+    }
+]
